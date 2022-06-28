@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\curso\.net\bin\Debug\net6.0\.net.exe
+C:\Users\Lenovo\Desktop\curso\.net\bin\Debug\net6.0\.net.deps.json
+C:\Users\Lenovo\Desktop\curso\.net\bin\Debug\net6.0\.net.runtimeconfig.json
+C:\Users\Lenovo\Desktop\curso\.net\bin\Debug\net6.0\.net.dll
+C:\Users\Lenovo\Desktop\curso\.net\bin\Debug\net6.0\.net.pdb
+C:\Users\Lenovo\Desktop\curso\.net\obj\Debug\net6.0\.net.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\curso\.net\obj\Debug\net6.0\.net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\curso\.net\obj\Debug\net6.0\.net.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\curso\.net\obj\Debug\net6.0\.net.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\curso\.net\obj\Debug\net6.0\.net.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\curso\.net\obj\Debug\net6.0\.net.dll
+C:\Users\Lenovo\Desktop\curso\.net\obj\Debug\net6.0\refint\.net.dll
+C:\Users\Lenovo\Desktop\curso\.net\obj\Debug\net6.0\.net.pdb
+C:\Users\Lenovo\Desktop\curso\.net\obj\Debug\net6.0\.net.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\curso\.net\obj\Debug\net6.0\ref\.net.dll
